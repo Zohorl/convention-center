@@ -5,3 +5,9 @@ body{
     border-radius: 26px;
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
 }
+.app-store img{
+    width: 150px;
+}
+.google-play img{
+    width: 170px;
+}
